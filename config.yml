@@ -32,7 +32,7 @@ menu:
 
 params:
   description: "I'm a 4th year Ph.D. student in Computer Science at Purdue University. My research interest is in the intersection of Natural Language Processing, Information Visualization, and Human-AI Interaction. I am currently a part of the Human-Centered Software Systems Lab at Purdue,  working under the supervision of [Dr. Tianyi Zhang](https://tianyi-zhang.github.io/)."
-  author: Samia Kabir
+  author: Linus Holmberg
   # googleAnalyticsID: ""
   DateFormat: "January 2006"
   defaultTheme: light
@@ -90,13 +90,13 @@ params:
     - name: CV
       url: "/cv.pdf"
     - name: LinkedIn
-      url: "https://www.linkedin.com/in/samia-kabir/"
+      url: "https://www.linkedin.com/in/linus-holmberg-2a7b5b239/"
     - name: Google Scholar
-      url: "https://scholar.google.com/citations?user=DZ5jg-IAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=QHS0iYQAAAAJ&hl"
     - name: GitHub
       url: "https://github.com/SamiaKabir"
     - name: Email
-      url: "mailto:kabirs@purdue.edu"
+      url: "mailto:linus.holmberg@ju.se"
 
   assets:
     disableHLJS: true
