@@ -1,4 +1,4 @@
-baseURL: "https://linus-holmberg.github.io/"
+baseURL: "https://linus-holmberg.github.io"
 title: Linus Holmberg
 paginate: 20
 theme: PaperMod
