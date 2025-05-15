@@ -6,8 +6,8 @@ theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-social:
-  twitter: SamiaKabir12
+#social:
+#  twitter: SamiaKabir12
 
 taxonomies:
   tag: tags
@@ -55,7 +55,7 @@ params:
   math: true
   profileMode:
     enabled: true
-    title: Samia Kabir
+    title: Linus Holmberg
     subtitle: "Hello! This is Linus! I'm a 2nd year Ph.D. student in Cognitive Science at Linkäping University. My research interest is
      in the intersection of Human-AI Interaction, explanations, and something more. 
      Under the supervision of [Prof. Maria Riveiro](https://tianyi-zhang.github.io/).
@@ -64,9 +64,7 @@ params:
      Write someting about me
 
      <br><br>
-     Before coming to Purdue, I received my M.Sc. in Computer Science and Engineering from Texas A&M University in May 2020.
-     I completed my Bachelor's degree from Bangladesh University of Engineering and Technology (BUET). I grew up in the magical Dhaka city of Bangladesh.
-     I love reading fiction 📖, and I'm a huge plant lover! 🌵🌱
+     Before coming to Linköping, 
 
      <br> <br>
 
@@ -75,7 +73,7 @@ params:
     imageUrl: "/picture.jpeg"
     imageWidth: 180
     imageHeight: 180
-    imageTitle: Samia Kabir
+    imageTitle: Linus Holmberg
     buttons:
       - name: Projects
         url: /projects/
@@ -93,8 +91,8 @@ params:
       url: "https://www.linkedin.com/in/linus-holmberg-2a7b5b239/"
     - name: Google Scholar
       url: "https://scholar.google.com/citations?user=QHS0iYQAAAAJ&hl"
-    - name: GitHub
-      url: "https://github.com/SamiaKabir"
+    #- name: GitHub
+    #  url: "https://github.com/SamiaKabir"
     - name: Email
       url: "mailto:linus.holmberg@ju.se"
 
@@ -105,7 +103,7 @@ params:
     hiddenInList: true
     hiddenInSingle: true
   label:
-    text: "Samia Kabir"
+    text: "Linus Holmberg"
     icon: /favicon.ico
     iconHeight: 18
 
