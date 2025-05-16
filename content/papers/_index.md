@@ -4,9 +4,8 @@ description: ""
 ---
 
 # Research Outputs 
-
-## 2025 ---
-
+---
+## 2025
 * \[SUBMITTED]. **Holmberg, L.** & Thunberg, S. (2025). A Grid Space Based Investigation of Agent Behaviour Explanations. In 20th
 SweCog Conference, Lund, Sweden, 07–09 October, 2025.
 <br><br>
@@ -35,21 +34,20 @@ Open.
 * [ACCEPTED, in Press]. **Holmberg, L.**, Sikström, S., Mirström, M., Lasorta, M., Stille, L., & Garcia, D. (2025). Users with ADD or
 ADHD are More Sensitive to Response‑Times: Anthropomorphism of a Chat‑Bot in Mental Health Assessment. 19th European
 Congress of Psychology. In European Journal of Psychology Open.
-<br><br>
+<br>
+---
 
-## 2024---
-
+## 2024
 * **Holmberg, L.**, Riveiro, M., & Thill, S. (2024). [Leveraging Large Language Models for Tailored and Interactive Explanations in
 AI Systems](https://swecog.se/files/SweCog2024_Proceedings.pdf). In 19th SweCog Conference, Stockholm, Sweden, 10–11 October, 2024 (pp. 27–31). Swedish Cognitive Science
 Society.
 <br>
 
 * \[Master's Thesis]. **Holmberg, L.** (2024). [Leveraging Large Language Models to Generate Natural Language Explanations of AI Systems-A Framework for Natural Language Explanations.](https://gupea.ub.gu.se/bitstream/handle/2077/83670/CSE%2024-15%20LH.pdf?sequence=1&isAllowed=y)
-<br><br>
+<br>
+---
 
-
-## 2023 ---
-
+## 2023 
 * Genell, A., Smith, M., García, J. J., Nause, A., & **Holmberg, L.** (2023). [A synthesized road traffic noise scenario for health impact assessment](https://www.diva-portal.org/smash/get/diva2:1856126/FULLTEXT01.pdf). In 10th Convention of the European Acoustics Association Forum Acusticum, Turin, Italy, September 11-15, 2023. (pp. 2077-2081). European Acoustics Association (EAA).
 <br><br>
 
