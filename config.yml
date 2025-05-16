@@ -31,7 +31,7 @@ menu:
     #   weight: 5
 
 params:
-  description: "Hello! This is Linus! I'm a 2nd year Ph.D. student in Cognitive Science at Linkäping University. My research interest is in the intersection of Human-AI Interaction, explanations, and something more. 
+  description: "Hello! This is Linus! I'm a 2nd year Ph.D. student in Cognitive Science at Linköping University. My research interest is in the intersection of Human-AI Interaction, explanations, and something more. 
      Under the supervision of [Prof. Tom Ziemke](https://www.ziemke.se/), [Prof. Maria Riveiro](https://ju.se/en/personinfo?sign=RIVMAR), and [Assoc. Prof. Serge Thill](https://www.ru.nl/en/people/thill-s)."
   author: Linus Holmberg
   # googleAnalyticsID: ""
@@ -57,7 +57,7 @@ params:
   profileMode:
     enabled: true
     title: Linus Holmberg
-    subtitle: "Hello! This is Linus! I'm a 2nd year Ph.D. student in Cognitive Science at Linkäping University. My research interest is in the intersection of Human-AI Interaction, explanations, and something more. 
+    subtitle: "Hello! This is Linus! I'm a 2nd year Ph.D. student in Cognitive Science at Linköping University. My research interest is in the intersection of Human-AI Interaction, explanations, and something more. 
      Under the supervision of [Prof. Tom Ziemke](https://www.ziemke.se/), [Prof. Maria Riveiro](https://ju.se/en/personinfo?sign=RIVMAR), and [Assoc. Prof. Serge Thill](https://www.ru.nl/en/people/thill-s). 
 
      <br><br>
