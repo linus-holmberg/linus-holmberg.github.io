@@ -4,7 +4,7 @@ description: ""
 ---
 ## Teaching
 
-As a part of my employment at Jönköping University, besides research, I also do some teaching at the department of Computer Science and Informatics [(CSI)](https://ju.se/en/about-us/school-of-engineering/organisation/computer-science-and-informatics.html). I do so primarily within the [New Media Design](https://ju.se/en/study-at-ju/our-programmes/bachelor-programmes/graphic-design-and-web-development-autumn-2025-ku018.html), the [Computer Engineering](https://ju.se/studera/valj-utbildning/program/program-pa-grundniva/datateknik--mjukvaruutveckling-och-mobila-plattformar-ht2025-52558.html), and the [Cybersecurity](https://ju.se/en/study-at-ju/our-programmes/master-programmes/cybersecurity-one-year-master-autumn-2025-mu135.html) programmes. 
+As a part of my employment at Jönköping University, besides research, I do some teaching at the department of Computer Science and Informatics [(CSI)](https://ju.se/en/about-us/school-of-engineering/organisation/computer-science-and-informatics.html). I do so primarily within the [New Media Design](https://ju.se/en/study-at-ju/our-programmes/bachelor-programmes/graphic-design-and-web-development-autumn-2025-ku018.html), the [Computer Engineering](https://ju.se/studera/valj-utbildning/program/program-pa-grundniva/datateknik--mjukvaruutveckling-och-mobila-plattformar-ht2025-52558.html), and the [Cybersecurity](https://ju.se/en/study-at-ju/our-programmes/master-programmes/cybersecurity-one-year-master-autumn-2025-mu135.html) programmes. 
 <br>
 
 ---

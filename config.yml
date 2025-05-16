@@ -7,7 +7,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 #social:
-#  twitter: SamiaKabir12
+#  twitter: LinusHolmberg
 
 taxonomies:
   tag: tags
@@ -17,7 +17,7 @@ menu:
     - name: Projects
       url: /projects/
       weight: 1
-    - name: Publication
+    - name: Research
       url: /papers/
       weight: 2
     - name: Teaching
@@ -77,7 +77,7 @@ params:
     buttons:
       - name: Projects
         url: /projects/
-      - name: Publication
+      - name: Research
         url: /papers/
       - name: Teaching
         url: /courses/
@@ -92,7 +92,7 @@ params:
     - name: Google Scholar
       url: "https://scholar.google.com/citations?user=QHS0iYQAAAAJ&hl"
     #- name: GitHub
-    #  url: "https://github.com/SamiaKabir"
+    #  url: "https://github.com/linus-holmberg"
     - name: Email
       url: "mailto:linus.holmberg@ju.se"
 

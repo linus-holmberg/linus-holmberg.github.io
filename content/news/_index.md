@@ -5,7 +5,7 @@ description: ""
 
 
 ## Recent News
-* <span style="color: gray;">[April 2024]</span> Paper Accepted to the [Frictional AI Workshop](https://sites.google.com/view/frictional-ai/home?authuser=0) (in conjunction with HHAI2025)**.
+* <span style="color: gray;">[April 2025]</span> Paper Accepted to the [Frictional AI Workshop](https://sites.google.com/view/frictional-ai/home?authuser=0) (at HHAI2025).
 <br> <br>
 
 <!--* <span style="color: gray;">[April 2024]</span> I am selected as a recipient of Purdue's **Graduate School Summer Research Grant** for Summer 2024.
