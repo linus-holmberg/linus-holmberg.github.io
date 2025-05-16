@@ -15,14 +15,16 @@ As a part of my employment at Jönköping University, besides research, I also d
     My Role: Supervisor <br>
     Students: New Media Design <br>
     Topics:  <br>
+<br>
 
 * **Bachelor's Thesis in Computer Engineering (TETP10/TETP16)** <br>
     Sessions: Spring'24 (1 group), Spring'25 (2 groups) <br>
     My Role: Supervisor <br>
     Students: Computer Engineering <br>
     Topics: <br>
+<br>
 
 * **[Introduction to Script Programming (TSPG17 / TSTG17)](https://pr-ju.github.io/course-material/courses/introduction-to-script-programming/)** <br>
     Sessions: Fall'24, Fall'25 <br>
-    My Role: Examination and during lab-sessions. 
-    Students: Computer Engineering and Cybersecurity.
+    My Role: Examination and during lab-sessions. <br>
+    Students: Computer Engineering and Cybersecurity. <br>
