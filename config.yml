@@ -31,7 +31,8 @@ menu:
     #   weight: 5
 
 params:
-  description: "I'm a 4th year Ph.D. student in Computer Science at Purdue University. My research interest is in the intersection of Natural Language Processing, Information Visualization, and Human-AI Interaction. I am currently a part of the Human-Centered Software Systems Lab at Purdue,  working under the supervision of [Dr. Tianyi Zhang](https://tianyi-zhang.github.io/)."
+  description: "Hello! This is Linus! I'm a 2nd year Ph.D. student in Cognitive Science at Linkäping University. My research interest is in the intersection of Human-AI Interaction, explanations, and something more. 
+     Under the supervision of [Prof. Tom Ziemke](https://www.ziemke.se/), [Prof. Maria Riveiro](https://ju.se/en/personinfo?sign=RIVMAR), and [Assoc. Prof. Serge Thill](https://www.ru.nl/en/people/thill-s)."
   author: Linus Holmberg
   # googleAnalyticsID: ""
   DateFormat: "January 2006"
@@ -56,9 +57,8 @@ params:
   profileMode:
     enabled: true
     title: Linus Holmberg
-    subtitle: "Hello! This is Linus! I'm a 2nd year Ph.D. student in Cognitive Science at Linkäping University. My research interest is
-     in the intersection of Human-AI Interaction, explanations, and something more. 
-     Under the supervision of [Prof. Maria Riveiro](https://tianyi-zhang.github.io/).
+    subtitle: "Hello! This is Linus! I'm a 2nd year Ph.D. student in Cognitive Science at Linkäping University. My research interest is in the intersection of Human-AI Interaction, explanations, and something more. 
+     Under the supervision of [Prof. Tom Ziemke](https://www.ziemke.se/), [Prof. Maria Riveiro](https://ju.se/en/personinfo?sign=RIVMAR), and [Assoc. Prof. Serge Thill](https://www.ru.nl/en/people/thill-s). 
 
      <br><br>
      Write someting about me
