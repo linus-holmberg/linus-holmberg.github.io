@@ -14,9 +14,9 @@ taxonomies:
 
 menu:
   main:
-    - name: Projects
-      url: /projects/
-      weight: 1
+    #- name: Projects
+    #  url: /projects/
+    #  weight: 1
     - name: Research
       url: /papers/
       weight: 2
@@ -66,6 +66,11 @@ params:
      <br><br>
      Before coming to Linköping, 
 
+
+     I am employed as a PhD student in Cognitive Science at Linköping University (LiU), Institution for Data Science (IDA), as a part of the cognition and interaction lab (COIN), having Prof. Tom Ziemke as my main supervisor. 
+
+     However, the majority of my time is spent in the Jönköping AI Lab (JAIL), Jönköping Tekniska Högskola. There, I am doing research in the intersection of human-centered AI and explainable AI. My research contribute to the XPECT project, led by my other supervisor, Prof. Maria Riveiro, and is founded by Vetenskapsrådet.
+
      <br> <br>
 
      Thank you for visitng my webpage!
@@ -75,8 +80,8 @@ params:
     imageHeight: 180
     imageTitle: Linus Holmberg
     buttons:
-      - name: Projects
-        url: /projects/
+      #- name: Projects
+      #  url: /projects/
       - name: Research
         url: /papers/
       - name: Teaching
