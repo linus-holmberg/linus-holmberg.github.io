@@ -52,7 +52,11 @@ Society.
 <br><br>
 
 * Smith, M. G., Nause, A., **Holmberg, L.**, Waye, K. P., Vincens, N., Kessel, B., Zou, D., Basner, M., Younes, M., & Genell, A. (2023). [A laboratory study on the impact of tyre noise on sleep, cognition and blood metabolome](https://icben.ethz.ch/2023/presenting136.pdf). ICBEN Congress on Noise as a Public Health Problem. 
+<br>
+---
 
+## 2022
+* \[Master's Thesis]  **Holmberg, L.** (2022). Nudging Towards Sustainable Investments: The Swedish Premium Pension System. [PDF](https://drive.google.com/file/d/1A_uM-lA4qeu8kYcbm2EgchGaUCeUVl41/view?usp=sharing)
 
 
 [Google Scholar](https://scholar.google.com/citations?user=QHS0iYQAAAAJ&hl)
