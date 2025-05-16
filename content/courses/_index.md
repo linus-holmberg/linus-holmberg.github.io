@@ -14,7 +14,7 @@ As a part of my employment at Jönköping University, besides research, I do som
     Sessions: Spring'24 (4 groups), Spring'25 (3 groups) <br>
     My Role: Supervisor <br>
     Students: New Media Design <br>
-    Topics: E.g., User Preferences of [Chatbots](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1866675&dswid=8555) and [LLM-Generated Contet](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1867930&dswid=-5425). <br>
+    Topics: E.g., User Preferences of [Chatbots](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1866675&dswid=8555) and [LLM-Generated Contet](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1867930&dswid=-5425). [Trust and Satisfaction of Chatbots](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1866271&dswid=7517)<br>
 <br>
 
 * **Bachelor's Thesis in Computer Engineering (TETP10/TETP16)** <br>
