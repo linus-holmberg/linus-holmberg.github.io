@@ -1,30 +1,46 @@
 ---
-title: "Papers"
+title: "Research"
 description: ""
 ---
 
-## Publications
+## Research Outputs 
+
+* \[SUBMITTED]. **Holmberg, L.** & Thunberg, S. (2025). A Grid Space Based Investigation of Agent Behaviour Explanations. In 20th
+SweCog Conference, Lund, Sweden
+<br><br>
+
+* \[SUBMITTED]. Thunberg, S., **Holmberg, L.** & Obaid, M. (2025). Tracking Mental Models of a Humanoid Robot. In 20th SweCog
+Conference, Lund, Sweden
+<br><br>
+
+* \[SUBMITTED]. **Holmberg, L.**, Sikström, S., & Riveiro, M. (2025). Speaking or Writing? Do Response Times Influence Anthropo‑
+morphism Differently for ADHD and Neurotypical Users in a Mental Health Chatbot?. In Proceedings of the 6th Conference on
+Conversational User Interfaces (CUI).
+<br><br>
+
+* [ACCEPTED, in Press]. **Holmberg, L.**, Riveiro, M. & Ziemke, T. (2025). How do Levels of Automation in AI‑Assisted Decision‑
+Making Influence Cognitive Engagement?. HHAI‑WS 2025, June 09–13, 2025, Pisa, Italy
+<br><br>
+
+* [ACCEPTED, in Press]. **Holmberg, L.** & Riveiro, M. (2025). Explanations of AI are Greater than Explainable AI. In HHAI 2025.
+<br><br>
+
+* [ACCEPTED, in Press]. Ngaosuvan, L., **Holmberg, L.**, Stille, L., Hagberg, J., Dahl, M., & Sikström, S. (2025). Usability Testing AI‑
+Supported Social Service Risk Assessment System. 19th European Congress of Psychology. In European Journal of Psychology
+Open.
+<br><br>
+
+* [ACCEPTED, in Press]. **Holmberg, L.**, Sikström, S., Mirström, M., Lasorta, M., Stille, L., & Garcia, D. (2025). Users with ADD or
+ADHD are More Sensitive to Response‑Times: Anthropomorphism of a Chat‑Bot in Mental Health Assessment. 19th European
+Congress of Psychology. In European Journal of Psychology Open.
+<br><br>
+
+* **Holmberg, L.**, Riveiro, M., & Thill, S. (2024). [Leveraging Large Language Models for Tailored and Interactive Explanations in
+AI Systems](https://swecog.se/files/SweCog2024_Proceedings.pdf). In 19th SweCog Conference, Stockholm, Sweden, 10–11 October, 2024 (pp. 27–31). Swedish Cognitive Science
+Society.
 
 
-
-* **Kabir, Samia**, David N. Udo-Imeh, Bonan Kou, and Tianyi Zhang. ["Is Stack Overflow Obsolete? An Empirical Study of the Characteristics of ChatGPT Answers to Stack Overflow Questions."](https://dl.acm.org/doi/pdf/10.1145/3613904.3642596)In Proceedings of the CHI Conference on Human Factors in Computing Systems **(CHI ’24)**.
 <br><br>
 
 
-* **Kabir, Samia**, Lixiang Li, and Tianyi Zhang. ["STILE: Exploring and Debugging Social Biases in Pre-trained Text Representations."](https://dl.acm.org/doi/pdf/10.1145/3613904.3642111)In Proceedings of the CHI Conference on Human Factors in Computing Systems **(CHI ’24)**.
-<br><br>
-
-* Esmaeili, Shaghayegh, **Samia Kabir**, Anthony M. Colas, Rhema P. Linder, and Eric D. Ragan. ["Evaluating Graphical Perception of Visual Motion for Quantitative Data Encoding."](https://ieeexplore.ieee.org/document/9839572) IEEE Transactions on Visualization and Computer Graphics (2022).
-<br> <br>
-
-* Nourani, Mahsan, **Samia Kabir**, Sina Mohseni, and Eric D. Ragan. ["The effects of meaningful and meaningless explanations on trust and perceived system accuracy in intelligent systems."](https://www.researchgate.net/publication/364463683_The_Effects_of_Meaningful_and_Meaningless_Explanations_on_Trust_and_Perceived_System_Accuracy_in_Intelligent_Systems) In Proceedings of the AAAI Conference on Human Computation and Crowdsourcing, vol. 7, pp. 97-105. 2019.
-<br> <br>
-
-* Roy, Chiradeep, Mahesh Shanbhag, Mahsan Nourani, Tahrima Rahman, **Samia Kabir**, Vibhav Gogate, Nicholas Ruozzi, and Eric D. Ragan. ["Explainable Activity Recognition in Videos."](https://personal.utdallas.edu/~nrr150130/Papers/exss19.pdf) In IUI Workshops, vol. 2, no. 4. 2019.  
-<br>
-* Mehnaz Tabassum, Tanzima Hashem, and **Samia Kabir**. ["A crowd enabled approach for processing nearest neighbor and range queries in incomplete databases with accuracy guarantee."](https://www.researchgate.net/profile/Tanzima-Hashem/publication/308910421_A_crowd_enabled_approach_for_processing_nearest_neighbor_and_range_queries_in_incomplete_databases_with_accuracy_guarantee/links/5ba7374ca6fdccd3cb6c69c5/A-crowd-enabled-approach-for-processing-nearest-neighbor-and-range-queries-in-incomplete-databases-with-accuracy-guarantee.pdf) Pervasive and Mobile Computing 39 (2017): 249-26.
-
-<br><br>
-
-
-[Google Scholar](https://scholar.google.com/citations?user=DZ5jg-IAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=QHS0iYQAAAAJ&hl)
