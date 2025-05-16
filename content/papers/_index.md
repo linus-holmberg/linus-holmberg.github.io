@@ -5,12 +5,14 @@ description: ""
 
 ## Research Outputs 
 
+# 2025
+
 * \[SUBMITTED]. **Holmberg, L.** & Thunberg, S. (2025). A Grid Space Based Investigation of Agent Behaviour Explanations. In 20th
-SweCog Conference, Lund, Sweden
+SweCog Conference, Lund, Sweden, 07–09 October, 2025.
 <br><br>
 
 * \[SUBMITTED]. Thunberg, S., **Holmberg, L.** & Obaid, M. (2025). Tracking Mental Models of a Humanoid Robot. In 20th SweCog
-Conference, Lund, Sweden
+Conference, Lund, Sweden, 07–09 October, 2025.
 <br><br>
 
 * \[SUBMITTED]. **Holmberg, L.**, Sikström, S., & Riveiro, M. (2025). Speaking or Writing? Do Response Times Influence Anthropo‑
@@ -35,12 +37,20 @@ ADHD are More Sensitive to Response‑Times: Anthropomorphism of a Chat‑Bot in
 Congress of Psychology. In European Journal of Psychology Open.
 <br><br>
 
+# 2024
+
 * **Holmberg, L.**, Riveiro, M., & Thill, S. (2024). [Leveraging Large Language Models for Tailored and Interactive Explanations in
 AI Systems](https://swecog.se/files/SweCog2024_Proceedings.pdf). In 19th SweCog Conference, Stockholm, Sweden, 10–11 October, 2024 (pp. 27–31). Swedish Cognitive Science
 Society.
 
-
 <br><br>
+
+# 2023
+
+* Genell, A., Smith, M., García, J. J., Nause, A., & **Holmberg, L.** (2023). [A synthesized road traffic noise scenario for health impact assessment](https://www.diva-portal.org/smash/get/diva2:1856126/FULLTEXT01.pdf). In 10th Convention of the European Acoustics Association Forum Acusticum, Turin, Italy, September 11-15, 2023. (pp. 2077-2081). European Acoustics Association (EAA).
+
+* Smith, M. G., Nause, A., **Holmberg, L.**, Waye, K. P., Vincens, N., Kessel, B., Zou, D., Basner, M., Younes, M., & Genell, A. (2023). [A laboratory study on the impact of tyre noise on sleep, cognition and blood metabolome](https://icben.ethz.ch/2023/presenting136.pdf). ICBEN Congress on Noise as a Public Health Problem. 
+
 
 
 [Google Scholar](https://scholar.google.com/citations?user=QHS0iYQAAAAJ&hl)
