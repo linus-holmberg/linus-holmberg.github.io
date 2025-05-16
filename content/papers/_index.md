@@ -41,7 +41,7 @@ Congress of Psychology. In European Journal of Psychology Open.
 * **Holmberg, L.**, Riveiro, M., & Thill, S. (2024). [Leveraging Large Language Models for Tailored and Interactive Explanations in
 AI Systems](https://swecog.se/files/SweCog2024_Proceedings.pdf). In 19th SweCog Conference, Stockholm, Sweden, 10–11 October, 2024 (pp. 27–31). Swedish Cognitive Science
 Society.
-<br>
+<br><br>
 
 * \[Master's Thesis]. **Holmberg, L.** (2024). [Leveraging Large Language Models to Generate Natural Language Explanations of AI Systems-A Framework for Natural Language Explanations.](https://gupea.ub.gu.se/bitstream/handle/2077/83670/CSE%2024-15%20LH.pdf?sequence=1&isAllowed=y)
 <br>
