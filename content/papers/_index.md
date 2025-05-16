@@ -42,12 +42,16 @@ Congress of Psychology. In European Journal of Psychology Open.
 * **Holmberg, L.**, Riveiro, M., & Thill, S. (2024). [Leveraging Large Language Models for Tailored and Interactive Explanations in
 AI Systems](https://swecog.se/files/SweCog2024_Proceedings.pdf). In 19th SweCog Conference, Stockholm, Sweden, 10–11 October, 2024 (pp. 27–31). Swedish Cognitive Science
 Society.
+<br>
 
+* \[Master's Thesis]. **Holmberg, L.** (2024). [Leveraging Large Language Models to Generate Natural Language Explanations of AI Systems-A Framework for Natural Language Explanations.](https://gupea.ub.gu.se/bitstream/handle/2077/83670/CSE%2024-15%20LH.pdf?sequence=1&isAllowed=y)
 <br><br>
+
 
 ## 2023 ---
 
 * Genell, A., Smith, M., García, J. J., Nause, A., & **Holmberg, L.** (2023). [A synthesized road traffic noise scenario for health impact assessment](https://www.diva-portal.org/smash/get/diva2:1856126/FULLTEXT01.pdf). In 10th Convention of the European Acoustics Association Forum Acusticum, Turin, Italy, September 11-15, 2023. (pp. 2077-2081). European Acoustics Association (EAA).
+<br><br>
 
 * Smith, M. G., Nause, A., **Holmberg, L.**, Waye, K. P., Vincens, N., Kessel, B., Zou, D., Basner, M., Younes, M., & Genell, A. (2023). [A laboratory study on the impact of tyre noise on sleep, cognition and blood metabolome](https://icben.ethz.ch/2023/presenting136.pdf). ICBEN Congress on Noise as a Public Health Problem. 
 
