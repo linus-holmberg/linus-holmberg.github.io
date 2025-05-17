@@ -22,12 +22,12 @@ Making Influence Cognitive Engagement?. _HHAI‑WS 2025_, June 09–13, 2025, Pi
 * [ACCEPTED, in Press]. **Holmberg, L.** & Riveiro, M. (2025). Explanations of AI are Greater than Explainable AI. _In HHAI 2025_.
 <br><br>
 
-* [ACCEPTED, in Press]. Ngaosuvan, L., **Holmberg, L.**, Stille, L., Hagberg, J., Dahl, M., & Sikström, S. (2025). Usability Testing AI‑Supported Social Service Risk Assessment System. 19th European Congress of Psychology. _In European Journal of Psychology Open_.
+* [ACCEPTED, in Press]. Ngaosuvan, L., **Holmberg, L.**, Stille, L., Hagberg, J., Dahl, M., & Sikström, S. (2025). Usability Testing AI‑Supported Social Service Risk Assessment System. _19th European Congress of Psychology. In European Journal of Psychology Open_.
 <br><br>
 
 * [ACCEPTED, in Press]. **Holmberg, L.**, Sikström, S., Mirström, M., Lasorta, M., Stille, L., & Garcia, D. (2025). Users with ADD or
-ADHD are More Sensitive to Response‑Times: Anthropomorphism of a Chat‑Bot in Mental Health Assessment. 19th European
-Congress of Psychology. _In European Journal of Psychology Open_.
+ADHD are More Sensitive to Response‑Times: Anthropomorphism of a Chat‑Bot in Mental Health Assessment. _19th European
+Congress of Psychology. In European Journal of Psychology Open_.
 <br>
 ---
 
