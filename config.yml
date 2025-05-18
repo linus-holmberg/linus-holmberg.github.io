@@ -74,24 +74,22 @@ params:
     enabled: true
     title: Linus Holmberg
     subtitle: "Hi, I'm a <b>Ph.D. student in Cognitive Science</b> at Linköping University (LiU). 
-     <br><br>
+     <br>
     
      Broadly speaking, my research interest lies in making AI systems useful and understandable to all users. 
      One could say that my primary focus is in the intersection of Human-AI/Computer Interaction and Explainable AI, and I use insights from cognitive science to inform my research.
-     Under the supervision of <b>[Prof. Tom Ziemke](https://www.ziemke.se/))</b> (LiU), <b>[Prof. Maria Riveiro](https://ju.se/en/personinfo?sign=RIVMAR)</b> (JU), and <b>[Assoc. Prof. Serge Thill](https://www.ru.nl/en/people/thill-s)</b> (Donders Institue). 
-     
+     I do this under the supervision of <b>[Prof. Tom Ziemke](https://www.ziemke.se/)</b> (LiU), <b>[Prof. Maria Riveiro](https://ju.se/en/personinfo?sign=RIVMAR)</b> (JU), and <b>[Assoc. Prof. Serge Thill](https://www.ru.nl/en/people/thill-s)</b> (Donders Institue).
 
      <br><br>
-     Even though I'm a PhD student at LiU, I'm employed as a PhD Researcher in a research project called [XPECT](https://ju.se/en/about-us/school-of-engineering/organisation/computer-science-and-informatics/research-projects/xpect.html) at Jönköpping University (JU).
-
-     <br><br>
-     I obtained my first Masters degree in [Cognition & Communication](https://www.ku.dk/studies/masters/cognition-and-communication) from the University of Copenhagen. 
-     After that I started a started studying a second masters, in [Data Science at GU](https://www.gu.se/en/study-gothenburg/data-science-big-data), while simutaniously working as an associate researcher in a sleep research project at the University of Gothenburg.
-     I received my bachelor degree in [Cognitive Science]((https://www.gu.se/studera/hitta-utbildning/kandidatprogram-i-kognitionsvetenskap-n1kog)) at the University of Gothenburg. 
+     I obtained my first <b>MA in [Cognition & Communication](https://www.ku.dk/studies/masters/cognition-and-communication)</b> from the University of Copenhagen. 
+     After that I studied a <b>MSc in [Data Science</b> at GU](https://www.gu.se/en/study-gothenburg/data-science-big-data), while simutaniously working as an associate researcher in a sleep research project at the University of Gothenburg.
+     I received my <b>BSc in [Cognitive Science]</b>((https://www.gu.se/studera/hitta-utbildning/kandidatprogram-i-kognitionsvetenskap-n1kog)) at the University of Gothenburg. 
 
      <br> <br>
 
-     <b>Get in touch!</b> If you are interested in my reseach or work on something similar, please reach out! I am always interestd in an in interesting discussion.
+     <b>Get in touch!</b> If you are interested in my reseach or work on something similar, please reach out!
+     <br>
+     I always appriciate an interesting discussion.
      "
     imageUrl: "/picture.jpeg"
     imageWidth: 180
