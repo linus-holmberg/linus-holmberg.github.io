@@ -31,8 +31,22 @@ menu:
     #   weight: 5
 
 params:
-  description: "Hello! This is Linus! I'm a 2nd year Ph.D. student in Cognitive Science at Linköping University. My research interest is in the intersection of Human-AI Interaction, explanations, and something more. 
-     Under the supervision of [Prof. Tom Ziemke](https://www.ziemke.se/), [Prof. Maria Riveiro](https://ju.se/en/personinfo?sign=RIVMAR), and [Assoc. Prof. Serge Thill](https://www.ru.nl/en/people/thill-s)."
+  description: "Hi, I'm a <b>Ph.D. student in Cognitive Science</b> at Linköping University (LiU). 
+     <br><br>
+    
+     Broadly speaking, my research interest lies in making AI systems useful and understandable to all users. 
+     One could say that my primary focus is in the intersection of Human-AI/Computer Interaction and Explainable AI, and I use insights from cognitive science to inform my research.
+     I do this under the supervision of <b>[Prof. Tom Ziemke](https://www.ziemke.se/))</b> (LiU), <b>[Prof. Maria Riveiro](https://ju.se/en/personinfo?sign=RIVMAR)</b> (JU), and <b>[Assoc. Prof. Serge Thill](https://www.ru.nl/en/people/thill-s)</b> (Donders Institue).
+
+     <br><br>
+     I obtained my first Masters degree in [Cognition & Communication](https://www.ku.dk/studies/masters/cognition-and-communication) from the University of Copenhagen. 
+     After that I started a started studying a second masters, in [Data Science at GU](https://www.gu.se/en/study-gothenburg/data-science-big-data), while simutaniously working as an associate researcher in a sleep research project at the University of Gothenburg.
+     I received my bachelor degree in [Cognitive Science]((https://www.gu.se/studera/hitta-utbildning/kandidatprogram-i-kognitionsvetenskap-n1kog)) at the University of Gothenburg. 
+
+     <br> <br>
+
+     <b>Get in touch!</b> If you are interested in my reseach or work on something similar, please reach out! I am always interestd in an in interesting discussion.
+     "
   author: Linus Holmberg
   # googleAnalyticsID: ""
   DateFormat: "January 2006"
@@ -57,23 +71,25 @@ params:
   profileMode:
     enabled: true
     title: Linus Holmberg
-    subtitle: "Hello! This is Linus! I'm a 2nd year Ph.D. student in Cognitive Science at Linköping University. My research interest is in the intersection of Human-AI Interaction, explanations, and something more. 
-     Under the supervision of [Prof. Tom Ziemke](https://www.ziemke.se/), [Prof. Maria Riveiro](https://ju.se/en/personinfo?sign=RIVMAR), and [Assoc. Prof. Serge Thill](https://www.ru.nl/en/people/thill-s). 
+    subtitle: "Hi, I'm a <b>Ph.D. student in Cognitive Science</b> at Linköping University (LiU). 
+     <br><br>
+    
+     Broadly speaking, my research interest lies in making AI systems useful and understandable to all users. 
+     One could say that my primary focus is in the intersection of Human-AI/Computer Interaction and Explainable AI, and I use insights from cognitive science to inform my research.
+     Under the supervision of <b>[Prof. Tom Ziemke](https://www.ziemke.se/))</b> (LiU), <b>[Prof. Maria Riveiro](https://ju.se/en/personinfo?sign=RIVMAR)</b> (JU), and <b>[Assoc. Prof. Serge Thill](https://www.ru.nl/en/people/thill-s)</b>. 
+     
 
      <br><br>
-     Write someting about me
+     Even though I'm a PhD student at LiU, I'm employed as a PhD Researcher in a research project called [XPECT](https://ju.se/en/about-us/school-of-engineering/organisation/computer-science-and-informatics/research-projects/xpect.html) at Jönköpping University (JU).
 
      <br><br>
-     Before coming to Linköping, 
-
-
-     I am employed as a PhD student in Cognitive Science at Linköping University (LiU), Institution for Data Science (IDA), as a part of the cognition and interaction lab (COIN), having Prof. Tom Ziemke as my main supervisor. 
-
-     However, the majority of my time is spent in the Jönköping AI Lab (JAIL), Jönköping Tekniska Högskola. There, I am doing research in the intersection of human-centered AI and explainable AI. My research contribute to the XPECT project, led by my other supervisor, Prof. Maria Riveiro, and is founded by Vetenskapsrådet.
+     I obtained my first Masters degree in [Cognition & Communication](https://www.ku.dk/studies/masters/cognition-and-communication) from the University of Copenhagen. 
+     After that I started a started studying a second masters, in [Data Science at GU](https://www.gu.se/en/study-gothenburg/data-science-big-data), while simutaniously working as an associate researcher in a sleep research project at the University of Gothenburg.
+     I received my bachelor degree in [Cognitive Science]((https://www.gu.se/studera/hitta-utbildning/kandidatprogram-i-kognitionsvetenskap-n1kog)) at the University of Gothenburg. 
 
      <br> <br>
 
-     Thank you for visitng my webpage!
+     <b>Get in touch!</b> If you are interested in my reseach or work on something similar, please reach out! I am always interestd in an in interesting discussion.
      "
     imageUrl: "/picture.jpeg"
     imageWidth: 180
