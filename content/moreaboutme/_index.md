@@ -1,6 +1,8 @@
 ## Wow, you wanted to know more about me... Sneaky little hobbitses. 
 
 ### Mostly Academic Stuff
+* 
+
 * In 2025, I'll be starting as an **AI resident at [X](https://x.company), the moonshot factory** working on ~top secret Google  stuff~
 * I did my **PhD at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/), UCL**. 
 * During this time I met an amazing group of neuroscientists and we **set up the [TReND CaMinA summer school](https://trendinafrica.org/trend-camina/)**\*
