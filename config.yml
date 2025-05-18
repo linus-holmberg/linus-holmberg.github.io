@@ -14,11 +14,11 @@ taxonomies:
 
 menu:
   main:
-    #- name: Projects
-    #  url: /projects/
-    #  weight: 1
-    - name: More about me
+    - name: More About Me
       url: /moreaboutme/
+      weight: 1
+    - name: Projects
+      url: /projects/
       weight: 2
     - name: Research
       url: /papers/
@@ -99,10 +99,11 @@ params:
     imageHeight: 180
     imageTitle: Linus Holmberg
     buttons:
-      #- name: Projects
-      #  url: /projects/
-      - name: More about me
+
+      - name: More About Me
         url: /moreaboutme/
+      - name: Projects
+        url: /projects/
       - name: Research
         url: /papers/
       - name: Teaching
