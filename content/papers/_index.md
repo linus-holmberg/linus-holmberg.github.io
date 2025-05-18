@@ -37,7 +37,7 @@ AI Systems. _In 19th SweCog Conference_, Stockholm, Sweden, 10–11 October, 202
 Society. [link](https://swecog.se/files/SweCog2024_Proceedings.pdf)
 <br><br>
 
-* \[Master's Thesis]. **Holmberg, L.** (2024). Leveraging Large Language Models to Generate Natural Language Explanations of AI Systems-A Framework for Natural Language Explanations.[link](https://gupea.ub.gu.se/bitstream/handle/2077/83670/CSE%2024-15%20LH.pdf?sequence=1&isAllowed=y)
+* \[Master's Thesis]. **Holmberg, L.** (2024). Leveraging Large Language Models to Generate Natural Language Explanations of AI Systems-A Framework for Natural Language Explanations. [link](https://gupea.ub.gu.se/bitstream/handle/2077/83670/CSE%2024-15%20LH.pdf?sequence=1&isAllowed=y)
 <br>
 ---
 
@@ -45,7 +45,7 @@ Society. [link](https://swecog.se/files/SweCog2024_Proceedings.pdf)
 * Genell, A., Smith, M., García, J. J., Nause, A., & **Holmberg, L.** (2023). A synthesized road traffic noise scenario for health impact assessment. _In 10th Convention of the European Acoustics Association Forum Acusticum_, Turin, Italy, September 11-15, 2023. (pp. 2077-2081). European Acoustics Association (EAA). [link](https://www.diva-portal.org/smash/get/diva2:1856126/FULLTEXT01.pdf)
 <br><br>
 
-* Smith, M. G., Nause, A., **Holmberg, L.**, Waye, K. P., Vincens, N., Kessel, B., Zou, D., Basner, M., Younes, M., & Genell, A. (2023). A laboratory study on the impact of tyre noise on sleep, cognition and blood metabolome. _ICBEN Congress on Noise as a Public Health Problem_.[link](https://icben.ethz.ch/2023/presenting136.pdf)
+* Smith, M. G., Nause, A., **Holmberg, L.**, Waye, K. P., Vincens, N., Kessel, B., Zou, D., Basner, M., Younes, M., & Genell, A. (2023). A laboratory study on the impact of tyre noise on sleep, cognition and blood metabolome. _ICBEN Congress on Noise as a Public Health Problem_. [link](https://icben.ethz.ch/2023/presenting136.pdf)
 <br>
 ---
 
