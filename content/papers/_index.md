@@ -6,26 +6,26 @@ description: ""
 # Research Outputs 
 ---
 ## 2025
-* \[SUBMITTED]. **Holmberg, L.** & Thunberg, S. (2025). A Grid Space Based Investigation of Agent Behaviour Explanations. *In 20th SweCog Conference*, Lund, Sweden, 07–09 October, 2025.
+* <span style="color: gray;">[SUBMITTED]</span> **Holmberg, L.** & Thunberg, S. (2025). A Grid Space Based Investigation of Agent Behaviour Explanations. *In 20th SweCog Conference*, Lund, Sweden, 07–09 October, 2025.
 <br><br>
 
-* \[SUBMITTED]. Thunberg, S., **Holmberg, L.** & Obaid, M. (2025). Tracking Mental Models of a Humanoid Robot. _In 20th SweCog Conference_, Lund, Sweden, 07–09 October, 2025.
+* <span style="color: gray;">[SUBMITTED]</span> Thunberg, S., **Holmberg, L.** & Obaid, M. (2025). Tracking Mental Models of a Humanoid Robot. _In 20th SweCog Conference_, Lund, Sweden, 07–09 October, 2025.
 <br><br>
 
-* \[SUBMITTED]. **Holmberg, L.**, Sikström, S., & Riveiro, M. (2025). Speaking or Writing? Do Response Times Influence Anthropomorphism Differently for ADHD and Neurotypical Users in a Mental Health Chatbot?. _In Proceedings of the 6th Conference on Conversational User Interfaces (CUI)_.
+* <span style="color: gray;">[SUBMITTED]</span> **Holmberg, L.**, Sikström, S., & Riveiro, M. (2025). Speaking or Writing? Do Response Times Influence Anthropomorphism Differently for ADHD and Neurotypical Users in a Mental Health Chatbot?. _In Proceedings of the 6th Conference on Conversational User Interfaces (CUI)_.
 <br><br>
 
-* [ACCEPTED, in Press]. **Holmberg, L.**, Riveiro, M. & Ziemke, T. (2025). How do Levels of Automation in AI‑Assisted Decision‑
+* <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.**, Riveiro, M. & Ziemke, T. (2025). How do Levels of Automation in AI‑Assisted Decision‑
 Making Influence Cognitive Engagement?. _HHAI‑WS 2025_, June 09–13, 2025, Pisa, Italy
 <br><br>
 
-* [ACCEPTED, in Press]. **Holmberg, L.** & Riveiro, M. (2025). Explanations of AI are Greater than Explainable AI. _In HHAI 2025_.
+* <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.** & Riveiro, M. (2025). Explanations of AI are Greater than Explainable AI. _In HHAI 2025_.
 <br><br>
 
-* [ACCEPTED, in Press]. Ngaosuvan, L., **Holmberg, L.**, Stille, L., Hagberg, J., Dahl, M., & Sikström, S. (2025). Usability Testing AI‑Supported Social Service Risk Assessment System. _19th European Congress of Psychology. In European Journal of Psychology Open_.
+* <span style="color: gray;">[ACCEPTED, in Press]</span> Ngaosuvan, L., **Holmberg, L.**, Stille, L., Hagberg, J., Dahl, M., & Sikström, S. (2025). Usability Testing AI‑Supported Social Service Risk Assessment System. _19th European Congress of Psychology. In European Journal of Psychology Open_.
 <br><br>
 
-* [ACCEPTED, in Press]. **Holmberg, L.**, Sikström, S., Mirström, M., Lasorta, M., Stille, L., & Garcia, D. (2025). Users with ADD or
+* <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.**, Sikström, S., Mirström, M., Lasorta, M., Stille, L., & Garcia, D. (2025). Users with ADD or
 ADHD are More Sensitive to Response‑Times: Anthropomorphism of a Chat‑Bot in Mental Health Assessment. _19th European
 Congress of Psychology. In European Journal of Psychology Open_.
 <br>
@@ -37,7 +37,7 @@ AI Systems. _In 19th SweCog Conference_, Stockholm, Sweden, 10–11 October, 202
 Society. [link](https://swecog.se/files/SweCog2024_Proceedings.pdf)
 <br><br>
 
-* \[Master's Thesis]. **Holmberg, L.** (2024). Leveraging Large Language Models to Generate Natural Language Explanations of AI Systems-A Framework for Natural Language Explanations. [link](https://gupea.ub.gu.se/bitstream/handle/2077/83670/CSE%2024-15%20LH.pdf?sequence=1&isAllowed=y)
+* <span style="color: gray;">[Master's Thesis]</span> **Holmberg, L.** (2024). Leveraging Large Language Models to Generate Natural Language Explanations of AI Systems-A Framework for Natural Language Explanations. [link](https://gupea.ub.gu.se/bitstream/handle/2077/83670/CSE%2024-15%20LH.pdf?sequence=1&isAllowed=y)
 <br>
 ---
 
@@ -50,7 +50,7 @@ Society. [link](https://swecog.se/files/SweCog2024_Proceedings.pdf)
 ---
 
 ## 2022
-* \[Master's Thesis]  **Holmberg, L.** (2022). Nudging Towards Sustainable Investments: The Swedish Premium Pension System. [link](https://drive.google.com/file/d/1A_uM-lA4qeu8kYcbm2EgchGaUCeUVl41/view?usp=sharing)
+* <span style="color: gray;">[Master's Thesis]</span> **Holmberg, L.** (2022). Nudging Towards Sustainable Investments: The Swedish Premium Pension System. [link](https://drive.google.com/file/d/1A_uM-lA4qeu8kYcbm2EgchGaUCeUVl41/view?usp=sharing)
 
 
 [Google Scholar](https://scholar.google.com/citations?user=QHS0iYQAAAAJ&hl)
