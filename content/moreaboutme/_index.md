@@ -3,7 +3,7 @@
 ### Mostly Academic Stuff
 * Even though I'm a PhD student at LiU I'm employed at JU in a research project called [XPECT](https://ju.se/en/about-us/school-of-engineering/organisation/computer-science-and-informatics/research-projects/xpect.html). 
 <br>
-* I have close collaboration with Psychology __Prof. Sverker Sikström__ (Lund University). His group are developing __AI-based tools Cognitive behavioural theraphy (CBT)__ and __mental health assessment__. My role is to help evaluate the __Human-AI Interaction__.
+* I have close collaboration with Psychology __[Prof. Sverker Sikström](https://portal.research.lu.se/sv/persons/sverker-sikstr%C3%B6m)__ (Lund University). His research group are developing __AI-based tools Cognitive behavioural theraphy (CBT)__ and __mental health assessment__. My role is to help evaluate the __Human-AI Interaction__.
 <br>
 * During my second master I worked in a __sleep lab__ under __[Assoc. Prof. Michael Smith](https://www.gu.se/en/about/find-staff/michaelsmith)__, where we investigated noice influence on sleep, cognition, and metabolites. 
 <br>
