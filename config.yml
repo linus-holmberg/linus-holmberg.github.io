@@ -26,9 +26,9 @@ menu:
     - name: News
       url: /news/
       weight: 4
-    # - name: Archive
-    #   url: /archive/
-    #   weight: 5
+    - name: CV
+      url: /cv.pdf
+      weight: 5
 
 params:
   description: "Hi, I'm a <b>Ph.D. student in Cognitive Science</b> at Linköping University (LiU). 
@@ -104,6 +104,8 @@ params:
         url: /courses/
       - name: News
         url: /news/
+      - name: CV
+        url: /cv.pdf
 
   socialIcons:
     - name: CV

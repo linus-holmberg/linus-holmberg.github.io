@@ -26,5 +26,5 @@ As a part of my employment at Jönköping University, besides research, I do som
 
 * **[Introduction to Script Programming (TSPG17 / TSTG17)](https://pr-ju.github.io/course-material/courses/introduction-to-script-programming/)** <br>
     __Sessions:__ Fall'23, Fall'24, Fall'25 <br>
-    __My Role:__ Examination and during lab-sessions. <br>
+    __My Role:__ Examination and support during lab-sessions. <br>
     __Students:__  Computer Engineering and Cybersecurity. <br>
