@@ -13,3 +13,5 @@
 * I used to work out… a lot, and I tried to get strong for real. Now I mostly play padel-tennis and lift some weights to minimize the physical and mental decay.
 <br><br>
 * During my BSc, I was elected to the student union council (Göta Studentkår). I realized that I’m not a fan of politics.
+<br><br>
+* It is quite easy to make me happy, just make a LOTR reference. 
