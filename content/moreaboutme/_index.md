@@ -1,7 +1,7 @@
 ## Wow, you wanted to know more about me... Sneaky little hobbitses. 
 
 ### Mostly Academic Stuff
-* Even though I'm a PhD student at LiU I'm employed at JU in a research project called [XPECT](https://ju.se/en/about-us/school-of-engineering/organisation/computer-science-and-informatics/research-projects/xpect.html). 
+* Even though I'm a PhD student at LiU I'm employed at JU in a research project called [XPECT](https://ju.se/en/about-us/school-of-engineering/organisation/computer-science-and-informatics/research-projects/xpect.html), led by __[Prof. Maria Riveiro](https://ju.se/personinfo.html?sign=RIVMAR)__.
 <br>
 * I have close collaboration with Psychology __[Prof. Sverker Sikström](https://portal.research.lu.se/sv/persons/sverker-sikstr%C3%B6m)__ (Lund University). His research group are developing __AI-based tools Cognitive behavioural theraphy (CBT)__ and __mental health assessment__. My role is to help evaluate the __Human-AI Interaction__.
 <br>
