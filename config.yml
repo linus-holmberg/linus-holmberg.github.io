@@ -37,7 +37,7 @@ menu:
       weight: 7
 
 params:
-  description: "Hi, I'm a <b>Ph.D. student in Cognitive Science</b> at Linköping University (LiU). 
+  description: "Hi, I'm a <b>[Ph.D. student in Cognitive Science</b> at Linköping University (LiU)](https://liu.se/medarbetare/linho07), and employed as a [Ph.D. researcher at Jönköping University (JU)](https://ju.se/en/personinfo?sign=HOLLIN).
      <br><br>
     
      Broadly speaking, my research interest lies in making AI systems useful and understandable to all users. 
@@ -79,7 +79,7 @@ params:
   profileMode:
     enabled: true
     title: Linus Holmberg
-    subtitle: "Hi, I'm a <b>Ph.D. student in Cognitive Science</b> at Linköping University (LiU). 
+    subtitle: "Hi, I'm a <b>[Ph.D. student in Cognitive Science</b> at Linköping University (LiU)](https://liu.se/medarbetare/linho07), and employed as a [Ph.D. researcher at Jönköping University (JU)](https://ju.se/en/personinfo?sign=HOLLIN).
      <br><br>
     
      Broadly speaking, my research interest lies in making AI systems useful and understandable to all users. 
