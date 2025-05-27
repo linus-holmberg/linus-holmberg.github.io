@@ -1,6 +1,6 @@
 ---
-title: "Ongoing Projects"
-description: "Ongoing Projects."
+title: "Research Projects"
+description: "Research Projects."
 
 ---
 <!-- ---
