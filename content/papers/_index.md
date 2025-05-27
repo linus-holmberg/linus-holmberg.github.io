@@ -12,9 +12,6 @@ description: ""
 * <span style="color: gray;">[SUBMITTED]</span> Thunberg, S., **Holmberg, L.** & Obaid, M. (2025). Tracking Mental Models of a Humanoid Robot. _In 20th SweCog Conference_, Lund, Sweden, 07–09 October, 2025.
 <br><br>
 
-* <span style="color: gray;">[SUBMITTED]</span> **Holmberg, L.**, Sikström, S., & Riveiro, M. (2025). Speaking or Writing? Do Response Times Influence Anthropomorphism Differently for ADHD and Neurotypical Users in a Mental Health Chatbot?. _In Proceedings of the 6th Conference on Conversational User Interfaces (CUI)_.
-<br><br>
-
 * <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.**, Riveiro, M. & Ziemke, T. (2025). How do Levels of Automation in AI‑Assisted Decision‑
 Making Influence Cognitive Engagement?. _HHAI‑WS 2025_, June 09–13, 2025, Pisa, Italy
 <br><br>
