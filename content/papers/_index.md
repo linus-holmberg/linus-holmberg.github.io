@@ -7,10 +7,10 @@ description: ""
 ---
 ## 2025
 * <span style="color: gray;">[SUBMITTED]</span> **Holmberg, L.**, Riveiro, M. & Sikström, S. (2025). Speaking or Writing? Do Response Times Influence Anthropomorphism
-Differently for ADHD and Neurotypical Users in a Mental Health Chatbot?, 13th International Conference on Human-Agent Interaction (HAI 2025), Yokohama, Japan, 10–13 November, 2025.
+Differently for ADHD and Neurotypical Users in a Mental Health Chatbot?, _13th International Conference on Human-Agent Interaction (HAI 2025)_, Yokohama, Japan, 10–13 November, 2025.
 <br><br>
 
-* <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.** & Thunberg, S. (2025). A Grid Space Based Investigation of Agent Behaviour Explanations. *In 20th SweCog Conference*, Lund, Sweden, 07–09 October, 2025.
+* <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.** & Thunberg, S. (2025). A Grid Space Based Investigation of Agent Behaviour Explanations. _In 20th SweCog Conference_, Lund, Sweden, 07–09 October, 2025.
 <br><br>
 
 * <span style="color: gray;">[ACCEPTED, in Press]</span> Thunberg, S., **Holmberg, L.** & Obaid, M. (2025). Tracking Mental Models of a Humanoid Robot. _In 20th SweCog Conference_, Lund, Sweden, 07–09 October, 2025.
