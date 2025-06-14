@@ -6,17 +6,21 @@ description: ""
 # Research Outputs 
 ---
 ## 2025
-* <span style="color: gray;">[SUBMITTED]</span> **Holmberg, L.** & Thunberg, S. (2025). A Grid Space Based Investigation of Agent Behaviour Explanations. *In 20th SweCog Conference*, Lund, Sweden, 07–09 October, 2025.
+* <span style="color: gray;">[SUBMITTED]</span> **Holmberg, L.**, Riveiro, M. & Sikström, S. (2025). Speaking or Writing? Do Response Times Influence Anthropomorphism
+Differently for ADHD and Neurotypical Users in a Mental Health Chatbot?, 13th International Conference on Human-Agent Interaction (HAI 2025), Yokohama, Japan, 10–13 November, 2025.
 <br><br>
 
-* <span style="color: gray;">[SUBMITTED]</span> Thunberg, S., **Holmberg, L.** & Obaid, M. (2025). Tracking Mental Models of a Humanoid Robot. _In 20th SweCog Conference_, Lund, Sweden, 07–09 October, 2025.
+* <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.** & Thunberg, S. (2025). A Grid Space Based Investigation of Agent Behaviour Explanations. *In 20th SweCog Conference*, Lund, Sweden, 07–09 October, 2025.
+<br><br>
+
+* <span style="color: gray;">[ACCEPTED, in Press]</span> Thunberg, S., **Holmberg, L.** & Obaid, M. (2025). Tracking Mental Models of a Humanoid Robot. _In 20th SweCog Conference_, Lund, Sweden, 07–09 October, 2025.
 <br><br>
 
 * <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.**, Riveiro, M. & Ziemke, T. (2025). How do Levels of Automation in AI‑Assisted Decision‑
 Making Influence Cognitive Engagement?. _HHAI‑WS 2025_, June 09–13, 2025, Pisa, Italy
 <br><br>
 
-* <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.** & Riveiro, M. (2025). Explanations of AI are Greater than Explainable AI. _In HHAI 2025_.
+* <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.** & Riveiro, M. (2025). Explanations of AI are Greater than Explainable AI. _In HHAI 2025_. [Pre-Print](/03-HHAI_2025_bluesky_paper_22.pdf)
 <br><br>
 
 * <span style="color: gray;">[ACCEPTED, in Press]</span> Ngaosuvan, L., **Holmberg, L.**, Stille, L., Hagberg, J., Dahl, M., & Sikström, S. (2025). Usability Testing AI‑Supported Social Service Risk Assessment System. _19th European Congress of Psychology. In European Journal of Psychology Open_.
