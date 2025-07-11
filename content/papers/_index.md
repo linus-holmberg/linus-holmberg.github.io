@@ -23,10 +23,10 @@ Making Influence Cognitive Engagement?. _HHAI‑WS 2025_, June 09–13, 2025, Pi
 * <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.** & Riveiro, M. (2025). Explanations of AI are Greater than Explainable AI. _In HHAI 2025_, June 09–13, 2025, Pisa, Italy. [Pre-Print](/03-HHAI_2025_bluesky_paper_22.pdf)
 <br><br>
 
-* Ngaosuvan, L., **Holmberg, L.**, Stille, L., Hagberg, J., Dahl, M., & Sikström, S. (2025, July). Usability Testing AI‑Supported Social Service Risk Assessment System [Abstract].  _19th European Congress of Psychology. In European Journal of Psychology Open_, 84(Suppl 1). [https://doi.org/10.1024/2673‑8627/a000085](https://doi.org/10.1024/2673‑8627/a000085)
+* Ngaosuvan, L., **Holmberg, L.**, Stille, L., Hagberg, J., Dahl, M., & Sikström, S. (2025, July). Usability Testing AI‑Supported Social Service Risk Assessment System [Abstract].  _19th European Congress of Psychology_. 1-4 July 2025, Paphos, Cyprus. _In European Journal of Psychology Open_, 84(Suppl 1). [https://doi.org/10.1024/2673‑8627/a000085](https://doi.org/10.1024/2673‑8627/a000085)
 <br><br>
 
-* **Holmberg, L.**, Sikström, S., Mirström, M., Lasorta, M., Stille, L., & Garcia, D. (2025, July). Users with ADD or ADHD are More Sensitive to Response‑Times: Anthropomorphism of a Chat‑Bot in Mental Health Assessment [Abstract]. _19th European Congress of Psychology. In European Journal of Psychology Open_, 84(Suppl 1). [https://doi.org/10.1024/2673‑8627/a000085](https://doi.org/10.1024/2673‑8627/a000085)
+* **Holmberg, L.**, Sikström, S., Mirström, M., Lasorta, M., Stille, L., & Garcia, D. (2025, July). Users with ADD or ADHD are More Sensitive to Response‑Times: Anthropomorphism of a Chat‑Bot in Mental Health Assessment [Abstract]. _19th European Congress of Psychology_. 1-4 July 2025, Paphos, Cyprus. _In European Journal of Psychology Open_, 84(Suppl 1). [https://doi.org/10.1024/2673‑8627/a000085](https://doi.org/10.1024/2673‑8627/a000085)
 
 _19th European
 Congress of Psychology. In European Journal of Psychology Open_.
