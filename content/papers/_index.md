@@ -27,9 +27,6 @@ Making Influence Cognitive Engagement?. _HHAI‑WS 2025_, June 09–13, 2025, Pi
 <br><br>
 
 * **Holmberg, L.**, Sikström, S., Mirström, M., Lasorta, M., Stille, L., & Garcia, D. (2025, July). Users with ADD or ADHD are More Sensitive to Response‑Times: Anthropomorphism of a Chat‑Bot in Mental Health Assessment [Abstract]. _In European Journal of Psychology Open_, 84(Suppl 1). _19th European Congress of Psychology_. 1-4 July 2025, Paphos, Cyprus. [https://doi.org/10.1024/2673-8627/a000085](https://doi.org/10.1024/2673-8627/a000085)
-
-_19th European
-Congress of Psychology. In European Journal of Psychology Open_.
 <br>
 
 ---
