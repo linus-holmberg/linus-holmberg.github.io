@@ -6,7 +6,7 @@ description: ""
 # Research Outputs 
 ---
 ## 2025
-* <span style="color: gray;">[SUBMITTED]</span> **Holmberg, L.**, Riveiro, M. & Sikström, S. (2025). Speaking or Writing? Do Response Times Influence Anthropomorphism
+* <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.**, Riveiro, M. & Sikström, S. (2025). Speaking or Writing? Do Response Times Influence Anthropomorphism
 Differently for ADHD and Neurotypical Users in a Mental Health Chatbot?, _13th International Conference on Human-Agent Interaction (HAI 2025)_, Yokohama, Japan, 10–13 November, 2025.
 <br><br>
 
