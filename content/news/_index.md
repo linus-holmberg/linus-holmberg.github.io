@@ -5,7 +5,7 @@ description: ""
 
 
 ## News
-* <span style="color: gray;">[August 2025]</span> Paper _"Speaking or Writing? Do Response Times Influence Anthropomorphism
+* <span style="color: gray;">[August 2025]</span> Paper _"Speaking or Writing: Do Response Times Influence Anthropomorphism
 Differently for ADHD and Neurotypical Users in a Mental Health Chatbot?"_ Accepted to the [Human-Agent Interaction Conference](https://hai-conference.net/hai2025/) in November 2025.
 <br> <br>
 

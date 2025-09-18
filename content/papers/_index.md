@@ -5,8 +5,11 @@ description: ""
 
 # Research Outputs 
 ---
+* <span style="color: gray;">[SUBMITTED]</span> **Holmberg, L.**, Sikström, S. & Riveiro, M.(2025). What Do Users Ask (and Don’t)? Spontaneous Explanation-Seeking in Chatbot-Based Cognitive Behavioral Therapy, _CHI Conference on Human Factors in Computing Systems (CHI 2026)_, Barcelona, Spain, 13–17 April, 2026.
+<br>
+---
 ## 2025
-* <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.**, Riveiro, M. & Sikström, S. (2025). Speaking or Writing? Do Response Times Influence Anthropomorphism
+* <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.**, Sikström, S. & Riveiro, M. (2025) Speaking or Writing: Do Response Times Influence Anthropomorphism
 Differently for ADHD and Neurotypical Users in a Mental Health Chatbot?, _13th International Conference on Human-Agent Interaction (HAI 2025)_, Yokohama, Japan, 10–13 November, 2025.
 <br><br>
 
