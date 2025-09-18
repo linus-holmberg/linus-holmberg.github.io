@@ -5,6 +5,7 @@ description: ""
 
 # Research Outputs 
 ---
+## 2026
 * <span style="color: gray;">[SUBMITTED]</span> **Holmberg, L.**, Sikström, S. & Riveiro, M.(2025). What Do Users Ask (and Don’t)? Spontaneous Explanation-Seeking in Chatbot-Based Cognitive Behavioral Therapy, _CHI Conference on Human Factors in Computing Systems (CHI 2026)_, Barcelona, Spain, 13–17 April, 2026.
 <br>
 ---
