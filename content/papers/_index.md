@@ -34,7 +34,7 @@ Making Influence Cognitive Engagement?. _HHAI‑WS 2025_, June 09–13, 2025, Pi
 ## 2024
 * **Holmberg, L.**, Riveiro, M., & Thill, S. (2024). Leveraging Large Language Models for Tailored and Interactive Explanations in
 AI Systems. _In 19th SweCog Conference_, Stockholm, Sweden, 10–11 October, 2024 (pp. 27–31). Swedish Cognitive Science
-Society. [link](https://swecog.se/files/SweCog2024_Proceedings.pdf)
+Society. [Download Proceedings](/SweCog2024.pdf)
 <br><br>
 
 * <span style="color: gray;">[Master's Thesis]</span> **Holmberg, L.** (2024). Leveraging Large Language Models to Generate Natural Language Explanations of AI Systems-A Framework for Natural Language Explanations. [link](https://gupea.ub.gu.se/bitstream/handle/2077/83670/CSE%2024-15%20LH.pdf?sequence=1&isAllowed=y)
