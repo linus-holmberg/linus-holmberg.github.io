@@ -24,7 +24,7 @@ Differently for ADHD and Neurotypical Users in a Mental Health Chatbot?, _13th I
 Making Influence Cognitive Engagement?. _HHAI‑WS 2025_, June 09–13, 2025, Pisa, Italy
 <br><br>
 
-* <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.** & Riveiro, M. (2025). Explanations of AI are Greater than Explainable AI. _In HHAI 2025_, June 09–13, 2025, Pisa, Italy. [Pre-Print](/03-HHAI_2025_bluesky_paper_22.pdf)
+* <span style="color: gray;"></span> **Holmberg, L.** & Riveiro, M. (2025). Explanations of AI are Greater than Explainable AI. _In HHAI 2025_, June 09–13, 2025, Pisa, Italy. [https://doi.org/10.3233/FAIA250645](https://doi.org/10.3233/FAIA250645)
 <br><br>
 
 * Ngaosuvan, L., **Holmberg, L.**, Stille, L., Hagberg, J., Dahl, M., & Sikström, S. (2025, July). Usability Testing AI‑Supported Social Service Risk Assessment System [Abstract]. _In European Journal of Psychology Open_, 84(Suppl 1). _19th European Congress of Psychology_. 1-4 July 2025, Paphos, Cyprus. [https://doi.org/10.1024/2673-8627/a000085](https://doi.org/10.1024/2673-8627/a000085)
