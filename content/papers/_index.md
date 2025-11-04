@@ -13,10 +13,10 @@ description: ""
 * <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.**, Sikström, S. & Riveiro, M. (2025) Speaking or Writing: Do Response Times Influence Anthropomorphism Differently for ADHD and Neurotypical Users in a Mental Health Chatbot?, _13th International Conference on Human-Agent Interaction (HAI 2025)_, Yokohama, Japan, 10–13 November, 2025.
 <br><br>
 
-* **Holmberg, L.** & Thunberg, S. (2025). A Grid Space Based Investigation of Agent Behaviour Explanations [Abstract]. _In 20th SweCog Conference_, pp.44-45, Lund, Sweden, 07–09 October, 2025. [link](https://konferens.ht.lu.se/fileadmin/user_upload/konferens/swecog/Book_of_abstracts_Sweccog_Final_Full.pdf)
+* **Holmberg, L.** & Thunberg, S. (2025). A Grid Space Based Investigation of Agent Behaviour Explanations [Abstract]. _In 20th SweCog Conference_, (pp.44-45), Lund, Sweden, 07–09 October, 2025. [Proceedings](https://konferens.ht.lu.se/fileadmin/user_upload/konferens/swecog/Book_of_abstracts_Sweccog_Final_Full.pdf)
 <br><br>
 
-* Thunberg, S., **Holmberg, L.** & Obaid, M. (2025). Tracking Mental Models of a Humanoid Robot [Abstract]. _In 20th SweCog Conference_, pp.56-57, Lund, Sweden, 07–09 October, 2025. [link](https://konferens.ht.lu.se/fileadmin/user_upload/konferens/swecog/Book_of_abstracts_Sweccog_Final_Full.pdf)
+* Thunberg, S., **Holmberg, L.** & Obaid, M. (2025). Tracking Mental Models of a Humanoid Robot [Abstract]. _In 20th SweCog Conference_, (pp.56-57), Lund, Sweden, 07–09 October, 2025. [Proceedings](https://konferens.ht.lu.se/fileadmin/user_upload/konferens/swecog/Book_of_abstracts_Sweccog_Final_Full.pdf)
 <br><br>
 
 * **Holmberg, L.**, Riveiro, M. & Ziemke, T. (2025). How do Levels of Automation in AI‑Assisted Decision‑
