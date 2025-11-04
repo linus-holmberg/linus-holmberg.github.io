@@ -6,25 +6,24 @@ description: ""
 # Research Outputs 
 ---
 ## 2026
-* <span style="color: gray;">[SUBMITTED]</span> **Holmberg, L.**, Sikström, S. & Riveiro, M.(2025). What Do Users Ask (and Don’t)? Spontaneous Explanation-Seeking in Chatbot-Based Cognitive Behavioral Therapy, _CHI Conference on Human Factors in Computing Systems (CHI 2026)_, Barcelona, Spain, 13–17 April, 2026.
+* <span style="color: gray;">[SUBMITTED]</span> **Holmberg, L.**, Sikström, S. & Riveiro, M.(2025). What Do Users Ask (and Don’t)? Spontaneous Explanation-Seeking in Chatbot-Based Cognitive Behavioral Therapy.
 <br>
 ---
 ## 2025
-* <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.**, Sikström, S. & Riveiro, M. (2025) Speaking or Writing: Do Response Times Influence Anthropomorphism
-Differently for ADHD and Neurotypical Users in a Mental Health Chatbot?, _13th International Conference on Human-Agent Interaction (HAI 2025)_, Yokohama, Japan, 10–13 November, 2025.
+* <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.**, Sikström, S. & Riveiro, M. (2025) Speaking or Writing: Do Response Times Influence Anthropomorphism Differently for ADHD and Neurotypical Users in a Mental Health Chatbot?, _13th International Conference on Human-Agent Interaction (HAI 2025)_, Yokohama, Japan, 10–13 November, 2025.
 <br><br>
 
-* <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.** & Thunberg, S. (2025). A Grid Space Based Investigation of Agent Behaviour Explanations [Abstract]. _In 20th SweCog Conference_, Lund, Sweden, 07–09 October, 2025.
+* **Holmberg, L.** & Thunberg, S. (2025). A Grid Space Based Investigation of Agent Behaviour Explanations [Abstract]. _In 20th SweCog Conference_, pp.44-45, Lund, Sweden, 07–09 October, 2025. [link](https://konferens.ht.lu.se/fileadmin/user_upload/konferens/swecog/Book_of_abstracts_Sweccog_Final_Full.pdf)
 <br><br>
 
-* <span style="color: gray;">[ACCEPTED, in Press]</span> Thunberg, S., **Holmberg, L.** & Obaid, M. (2025). Tracking Mental Models of a Humanoid Robot [Abstract]. _In 20th SweCog Conference_, Lund, Sweden, 07–09 October, 2025.
+* Thunberg, S., **Holmberg, L.** & Obaid, M. (2025). Tracking Mental Models of a Humanoid Robot [Abstract]. _In 20th SweCog Conference_, pp.56-57, Lund, Sweden, 07–09 October, 2025. [link](https://konferens.ht.lu.se/fileadmin/user_upload/konferens/swecog/Book_of_abstracts_Sweccog_Final_Full.pdf)
 <br><br>
 
-* <span style="color: gray;">[ACCEPTED, in Press]</span> **Holmberg, L.**, Riveiro, M. & Ziemke, T. (2025). How do Levels of Automation in AI‑Assisted Decision‑
-Making Influence Cognitive Engagement?. _HHAI‑WS 2025_, June 09–13, 2025, Pisa, Italy
+* **Holmberg, L.**, Riveiro, M. & Ziemke, T. (2025). How do Levels of Automation in AI‑Assisted Decision‑
+Making Influence Cognitive Engagement?. _HHAI‑WS 2025: Workshops at the Fourth International Conference on Hybrid Human-Artificial Intelligence (HHAI 2025)_, June 09–13, 2025, Pisa, Italy. [link](https://ceur-ws.org/Vol-4074/short3-4.pdf)
 <br><br>
 
-* <span style="color: gray;"></span> **Holmberg, L.** & Riveiro, M. (2025). Explanations of AI are Greater than Explainable AI. _In HHAI 2025_, June 09–13, 2025, Pisa, Italy. [https://doi.org/10.3233/FAIA250645](https://doi.org/10.3233/FAIA250645)
+* **Holmberg, L.** & Riveiro, M. (2025). Explanations of AI are Greater than Explainable AI. _In HHAI 2025_, June 09–13, 2025, Pisa, Italy. [https://doi.org/10.3233/FAIA250645](https://doi.org/10.3233/FAIA250645)
 <br><br>
 
 * Ngaosuvan, L., **Holmberg, L.**, Stille, L., Hagberg, J., Dahl, M., & Sikström, S. (2025, July). Usability Testing AI‑Supported Social Service Risk Assessment System [Abstract]. _In European Journal of Psychology Open_, 84(Suppl 1). _19th European Congress of Psychology_. 1-4 July 2025, Paphos, Cyprus. [https://doi.org/10.1024/2673-8627/a000085](https://doi.org/10.1024/2673-8627/a000085)
