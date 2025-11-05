@@ -20,9 +20,9 @@ menu:
     - name: More About Me
       url: /moreaboutme/
       weight: 2
-    - name: Projects
-      url: /projects/
-      weight: 3
+    #- name: Projects
+    #  url: /projects/
+    #  weight: 3
     - name: Research
       url: /papers/
       weight: 4
@@ -105,8 +105,8 @@ params:
 
       - name: More About Me
         url: /moreaboutme/
-      - name: Projects
-        url: /projects/
+      #- name: Projects
+     #   url: /projects/
       - name: Research
         url: /papers/
       - name: Teaching
