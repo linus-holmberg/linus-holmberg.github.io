@@ -5,8 +5,8 @@ description: ""
 
 # Research Outputs 
 ---
-## 2026
-* <span style="color: gray;">[Pre-Print]</span> **Holmberg, L.**, Sikström, S. & Riveiro, M.(2025). What Do Users Ask (and Don’t)? Spontaneous Explanation-Seeking in Chatbot-Based Cognitive Behavioral Therapy. [http://dx.doi.org/10.2139/ssrn](http://dx.doi.org/10.2139/ssrn.5940930).
+## 2026 
+* <span style="color: gray;">[Pre-Print]</span> **Holmberg, L.**, Sikström, S. & Riveiro, M.(2026). What Do Users Ask (and Don’t)? Spontaneous Explanation-Seeking in Chatbot-Based Cognitive Behavioral Therapy. [http://dx.doi.org/10.2139/ssrn](http://dx.doi.org/10.2139/ssrn.5940930).
 <br>
 ---
 ## 2025
