@@ -4,6 +4,16 @@ description: ""
 ---
 
 # Research Outputs 
+<!--
+---
+
+## 2026
+* <span style="color: gray;">[SUBMITTED]</span> **Holmberg, L.**, Sikström, S. & Riveiro, M. (2026). What Do Users Ask (and Don’t)? Spontaneous Explanation-Seeking in Chatbot-Based Cognitive Behavioral Therapy, _34th ACM International Conference on User Modeling, Adaptation and Personalization (UMAP 2026)_, Gothenburg, Sweden, 08–11 June, 2026. 
+<br><br>
+
+* <span style="color: gray;">[SUBMITTED]</span> **Holmberg, L.**,  Riveiro, M., & Ziemke, T. (2026). Using Predictive Processing as Framework to Explain Human-AI Interaction.
+<br>
+-->
 ---
 
 ## 2025
