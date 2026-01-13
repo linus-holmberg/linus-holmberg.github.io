@@ -3,9 +3,9 @@
 ### Mostly Academic Stuff
 * I'm a PhD student at Linköping University, but I'm employed at Jönköping University in a research project called [XPECT](https://ju.se/en/about-us/school-of-engineering/organisation/computer-science-and-informatics/research-projects/xpect.html), led by __[Prof. Maria Riveiro](https://ju.se/personinfo.html?sign=RIVMAR)__.
 <br><br>
-* Since I never turn down an intereting oppertunity, I have multiple ongoinf colloaborations. Such as with Psychology __[Prof. Sverker Sikström](https://portal.research.lu.se/sv/persons/sverker-sikstr%C3%B6m)__ (Lund University). His research group develops __AI-based tools for Cognitive Behavioural Therapy (CBT)__ and __mental health assessment__. My role is to help evaluate the __Human-AI Interaction__.
+* Since I never turn down an interesting oppertunity, I have multiple ongoing colloaborations. One example being with Psychology __[Prof. Sverker Sikström](https://portal.research.lu.se/sv/persons/sverker-sikstr%C3%B6m)__ (Lund University). His research group develops __AI-based tools for Cognitive Behavioural Therapy (CBT)__ and __mental health assessments__. My role there is to help evaluate the __Human-AI Interaction__.
 <br><br>
-* We are also working on AI-based tools to support social workers with _risk assessments in custody evaluations_. 
+* In another collaboration I am involved in we are working on AI-based tools to support social workers with _risk assessments in custody evaluations_. 
 <br><br>
 * Simultaneously with studying for my second master’s, I worked in a __sleep lab__ under __[Assoc. Prof. Michael Smith](https://www.gu.se/en/about/find-staff/michaelsmith)__, where we investigated the influence of noise on sleep, cognition, and metabolites.
 <br><br>
