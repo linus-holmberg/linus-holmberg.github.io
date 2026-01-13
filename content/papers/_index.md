@@ -5,11 +5,11 @@ description: ""
 
 # Research Outputs 
 ---
-## 2026 
-* <span style="color: gray;">[Pre-Print]</span> **Holmberg, L.**, Sikström, S. & Riveiro, M. (2026). What Do Users Ask (and Don’t)? Spontaneous Explanation-Seeking in Chatbot-Based Cognitive Behavioral Therapy. [http://dx.doi.org/10.2139/ssrn](http://dx.doi.org/10.2139/ssrn.5940930).
-<br>
----
+
 ## 2025
+* <span style="color: gray;">[Pre-Print]</span> **Holmberg, L.**, Sikström, S. & Riveiro, M. (2025). What Do Users Ask (and Don’t)? Spontaneous Explanation-Seeking in Chatbot-Based Cognitive Behavioral Therapy. [http://dx.doi.org/10.2139/ssrn](http://dx.doi.org/10.2139/ssrn.5940930).
+<br><br>
+
 * **Holmberg, L.**, Sikström, S. & Riveiro, M. (2025) Speaking or Writing: Do Response Times Influence Anthropomorphism Differently for ADHD and Neurotypical Users in a Mental Health Chatbot?, _13th International Conference on Human-Agent Interaction (HAI 2025)_, Yokohama, Japan, 10–13 November, 2025 [https://doi.org/10.1145/3765766.3765772](https://doi.org/10.1145/3765766.3765772).
 <br><br>
 
