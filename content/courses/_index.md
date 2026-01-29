@@ -11,7 +11,7 @@ As a part of my employment at Jönköping University, besides research, I do som
 ## Jönköping University
 
 * **[Bachelor's Thesis in Informatics (TWIP17)](https://ju.se/student/en/studies/courses.html?year=2025&id=9aa7c147-53c2-11ee-a5dc-cb3014e64cd6)** <br>
-    __Sessions:__ Spring'26 (3 groups), Spring'25 (3 groups), Spring'24 (4 groups) <br>
+    __Sessions:__ Spring'26 (4 groups), Spring'25 (3 groups), Spring'24 (4 groups) <br>
     __My Role:__ Supervisor <br>
     __Students:__ New Media Design <br>
     __Topics:__ E.g., User Preferences of [Chatbots](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1866675&dswid=8555) and [LLM-Generated Contet](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1867930&dswid=-5425). [Trust and Satisfaction of Chatbots](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1866271&dswid=7517).<br>
