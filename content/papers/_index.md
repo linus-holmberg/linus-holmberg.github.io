@@ -14,7 +14,14 @@ description: ""
 * <span style="color: gray;">[SUBMITTED]</span> **Holmberg, L.**,  Riveiro, M., & Ziemke, T. (2026). Using Predictive Processing as Framework to Explain Human-AI Interaction.
 <br>
 -->
+## 2026
+
+
+* Fischer, S. WS., **Holmberg, L.**, Thill, S., & Schraffenberger, H. (2026) From Explanations to Reflective Questions in Human-AI Decision-Making, _Mensch und Computer 2026 (MuC'26)_, Duisburg, Germany, 30 Aug–02 Sep, 2026 [https://doi.org/10.1145/3820253.3831391](https://doi.org/10.1145/3820253.3831391).
+<br><br>
+
 ---
+
 
 ## 2025
 * <span style="color: gray;">[Pre-Print]</span> **Holmberg, L.**, Sikström, S. & Riveiro, M. (2025). Treating Chatbots Like Human Clinicians: Spontaneous Explanation-Seeking in Chatbot-Based Cognitive Behavioural Therapy. [http://dx.doi.org/10.2139/ssrn](http://dx.doi.org/10.2139/ssrn.5940930).
