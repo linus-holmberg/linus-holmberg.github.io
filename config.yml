@@ -99,7 +99,7 @@ params:
      "
     imageUrl: "/picture.jpg"
     imageWidth: 180
-    imageHeight: 180
+    imageHeight: 240
     imageTitle: Linus Holmberg
     buttons:
 
